@@ -176,6 +176,11 @@ Cohorts Tracked – 13 months
 Dashboard:
 <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/9582b2a7-6322-40ae-bdd0-39a14f224e7f" />
 
+**Customer Retention Matrix**:
+<img width="1129" height="642" alt="image" src="https://github.com/user-attachments/assets/6e7e9ae5-215f-4538-93a2-2a117139b999" />
+
+
+
 
 
 #### ⚪ Page 3: Churn & Customer Performance
