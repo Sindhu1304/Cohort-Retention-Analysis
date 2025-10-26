@@ -6,7 +6,7 @@ It identifies **retention patterns**, **revenue performance**, and **churn behav
 
 ---
 
-## 🎯 Objective
+##  Objective
 This project performs an end-to-end **Subscription Cohort & Retention Analysis pipeline** — from **data cleaning in Python** to **data modeling in Power BI** using **PostgreSQL** as the data source.
 
 Key objectives include:
@@ -126,7 +126,7 @@ Bi-directional filtering enabled for accurate monthly aggregation.
 
 
 ### **Phase 4 — Power BI Dashboard**
-#### 🟩 Page 1 — Subscription Overview & KPIs
+####  Page 1 — Subscription Overview & KPIs
 KPIs:
 
 Total Users
@@ -158,7 +158,7 @@ Dashboard:
 
 
 
-#### 🟨 Page 2 — Cohort & Retention Dashboard
+####  Page 2 — Cohort & Retention Dashboard
 KPIs:
 
 Metric	Value
@@ -176,7 +176,7 @@ Monthly Churn Trend
 
 Cohort Size vs Retention
 
-📈 Insight: Retention improved 5× in later cohorts, showing product improvements.
+ Insight: Retention improved 5× in later cohorts, showing product improvements.
 
 Dashboard:
 <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/9582b2a7-6322-40ae-bdd0-39a14f224e7f" />
@@ -186,7 +186,7 @@ Dashboard:
 
 
 
-#### ⚪ Page 3 — Churn & Customer Performance
+####  Page 3 — Churn & Customer Performance
 KPIs:
 
 Metric	Value
@@ -204,7 +204,7 @@ Revenue by Retention Status
 
 Top 5 Cohorts by Revenue
 
-📈 Insight: ~65% of potential revenue (~₹73K) lost to churn; re-engagement can recover value.
+ Insight: ~65% of potential revenue (~₹73K) lost to churn; re-engagement can recover value.
 Dashboard:
 <img width="966" height="610" alt="image" src="https://github.com/user-attachments/assets/16eb2087-eeb5-40f3-a189-eeb68b1bc7e1" />
 
@@ -251,6 +251,7 @@ Power BI dashboard (.pbix)
 Sindhu Pamula — Data Analytics Enthusiast
 Exploring cohort retention, churn metrics, and visualization storytelling.
 
-📧 Email: sindhupamula13@gmail.com
-🌐 LinkedIn: linkedin.com/in/sindhu-pamula-ba5b24226
+Email: sindhupamula13@gmail.com
+
+LinkedIn: linkedin.com/in/sindhu-pamula-ba5b24226
 
