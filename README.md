@@ -92,7 +92,7 @@ ORDER BY cohort_month;
 
 These SQL views were later connected to Power BI for dashboard building.
 
-Phase 3 — Data Modeling (Power BI Model View)
+### **Phase 3 — Data Modeling (Power BI Model View)**
 Before visualization, data modeling was done to define proper relationships.
 
 Model Components:
@@ -125,8 +125,8 @@ Bi-directional filtering enabled for accurate monthly aggregation.
 
 
 
-Phase 4 — Power BI Dashboard
-🟩 Page 1 — Subscription Overview & KPIs
+### **Phase 4 — Power BI Dashboard**
+#### 🟩 Page 1 — Subscription Overview & KPIs
 KPIs:
 
 Total Users
@@ -158,7 +158,7 @@ Dashboard:
 
 
 
-🟨 Page 2 — Cohort & Retention Dashboard
+#### 🟨 Page 2 — Cohort & Retention Dashboard
 KPIs:
 
 Metric	Value
@@ -186,7 +186,7 @@ Dashboard:
 
 
 
-⚪ Page 3 — Churn & Customer Performance
+#### ⚪ Page 3 — Churn & Customer Performance
 KPIs:
 
 Metric	Value
@@ -209,14 +209,14 @@ Dashboard:
 <img width="966" height="610" alt="image" src="https://github.com/user-attachments/assets/16eb2087-eeb5-40f3-a189-eeb68b1bc7e1" />
 
 
-🧩 Tools & Technologies Used
+### Tools & Technologies Used
 Tool	Purpose
 Python (Pandas, Matplotlib, Seaborn)	Data cleaning & preprocessing
 PostgreSQL	Retention, churn, and cohort SQL analysis
 Power BI	Data modeling & interactive dashboards
 CSV Files	Exported intermediate data
 
-🔍 Key Insights
+### Key Insights
 Most churn occurs within the first 3 months.
 
 Annual/Quarterly plans retain 25% more users.
@@ -227,7 +227,7 @@ Retention stabilizes beyond Month 8 — indicates loyal users.
 
 CLV growth stabilizes after 6 months.
 
-🧠 Learning Outcomes
+###  Learning Outcomes
 Gained understanding of Cohort & Retention Analysis using SQL + Power BI.
 
 Learned data modeling and relationship creation in Power BI.
@@ -236,7 +236,7 @@ Enhanced storytelling through visual trends in churn and revenue behavior.
 
 Strengthened SQL view creation and integration with BI tools.
 
-📦 Deliverables
+###  Deliverables
 subscriptions_user.csv — Cleaned dataset
 
 cohort_data.csv — Cohort level data
@@ -247,7 +247,7 @@ SQL scripts (.sql)
 
 Power BI dashboard (.pbix)
 
-👩‍💻 Author
+### Author
 Sindhu Pamula — Data Analytics Enthusiast
 Exploring cohort retention, churn metrics, and visualization storytelling.
 
